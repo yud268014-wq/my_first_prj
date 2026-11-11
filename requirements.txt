@@ -1,0 +1,2 @@
+# 本程序仅使用 Python 标准库，无需额外安装依赖
+# tkinter 随 Python 自带（Windows 版默认包含）
